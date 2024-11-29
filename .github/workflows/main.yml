@@ -1,0 +1,9 @@
+- name: Upload Release Asset
+  uses: actions/upload-release-asset@v1
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  with:
+    upload_url: ${{ steps.create_release.outputs.upload_url }}
+    asset_path: ./foo-1.0.0-osx.zip
+    asset_name: foo-1.0.0-osx.zip
+    asset_content_type: application/zip
