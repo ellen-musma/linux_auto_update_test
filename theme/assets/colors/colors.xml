@@ -1,0 +1,62 @@
+<resources>
+    <!-- LightMode -->
+    <color name="lightPrimary">#FF036DB7</color>
+    <color name="lightOnPrimary">#FF00AA52</color>
+    <color name="lightSecondary">#FF242E40</color>
+    <color name="lightOnSecondary">#FFD0D5DD</color>
+    <color name="lightBackground">#FFFFFFFF</color>
+    <color name="lightError">#FFE82717</color>
+    <color name="lightOnError">#FFFD9009</color>
+
+    <!-- DarkMode -->
+    <color name="darkPrimary">#FF037BD0</color>
+    <color name="darkOnPrimary">#FF00C45E</color>
+    <color name="darkSecondary">#FFBFC9DB</color>
+    <color name="darkOnSecondary">#FF0D0D0D</color>
+    <color name="darkBackground">#FF0D0D0D</color>
+    <color name="darkError">#FFED5345</color>
+    <color name="darkOnError">#FFFD9B22</color>
+
+    <!-- Blue (Primary) -->
+    <color name="lighterBlue">#FFF2F8FB</color>
+    <color name="lightBlue">#FF118EE5</color>
+    <color name="darkBlue">#FF025996</color>
+    <color name="darkerBlue">#FF003E6A</color>
+
+    <!-- Black -->
+    <color name="lighterBlack">#FF667085</color>
+    <color name="lightBlack">#FF475467</color>
+    <color name="mainBlack">#FF44505C</color>
+    <color name="darkBlack">#FF242E40</color>
+    <color name="darkerBlack">#FF0E1C31</color>
+
+    <!-- Gray  -->
+    <color name="lighterGray">#FFDFE7EB</color>
+    <color name="lightGray">#FFD9E1E5</color>
+    <color name="darkGray">#FFC4D2E0</color>
+    <color name="darkerGray">#FFBAC7D5</color>
+
+    <!-- White  -->
+    <color name="lighterWhite">#FFF4F6F9</color>
+    <color name="lightWhite">#FFF9FAFB</color>
+    <color name="darkWhite">#FFEEEEEE</color>
+    <color name="darkerWhite">#FFEAEAEA</color>
+
+    <!-- Red -->
+    <color name="lighterRed">#FFEDDDDD</color>
+    <color name="lightRed">#FFFF4D4F</color>
+    <color name="darkRed">#FFA63132</color>
+    <color name="darkerRed">#FF940E0F</color>
+
+    <!-- Green  -->
+    <color name="lighterGreen">#FFE6E8D8</color>
+    <color name="mainGreen">#FF107C41</color>
+    <color name="darkGreen">#FF066B36</color>
+    <color name="darkerGreen">#FF054522</color>
+
+    <!-- Orange  -->
+    <color name="lighterOrange">#FFFFD9009</color>
+    <color name="lightOrange">#FFFFAB43</color>
+    <color name="darkOrange">#FFE76F00</color>
+    <color name="darkerOrange">#FFDB6900</color>
+</resources>
